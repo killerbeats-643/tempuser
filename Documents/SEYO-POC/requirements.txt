@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+langchain
+langchain-google-genai
+langchain-community
+google-generativeai
+pypdf
+tiktoken
+python-multipart
+
+langdetect
+fasttext
+#to install fast text model 
+#wget https://dl.fbaipublicfiles.com/fasttext/supervised-models/lid.176.bin
